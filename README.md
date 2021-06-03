@@ -3,7 +3,7 @@
 ## Description
 This is a fun E-Commerce App that allows a user to View, Create, Update and Delete their Products, Categories and Tags
 
-## Insructions
+## Instructions
 
 * Clone the Repository
 * Update .env.EXAMPLE with your own database server password and user name (usually "root" for MYSQL) and then save and rename the file to .env
